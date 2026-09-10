@@ -26,6 +26,7 @@ This keeps different manufacturers, aircraft families, design revisions, and phy
 Current manufacturer areas include:
 
 - Flightory
+- Nomadium Robotics
 - Eclipson
 - Titan Dynamics
 - Additional manufacturers may be added as projects begin.
@@ -45,6 +46,8 @@ aircraft/
 │   ├── talon-1400/
 │   └── stork/
 ├── eclipson/
+├── nomadium-robotics/
+│   └── terrahawk-fpv/
 └── titan-dynamics/
 ```
 
